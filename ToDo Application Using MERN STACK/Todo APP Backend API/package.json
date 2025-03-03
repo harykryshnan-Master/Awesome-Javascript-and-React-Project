@@ -16,7 +16,7 @@
     "lodash": "^4.17.20",
     "mongoose": "^5.9.6",
     "morgan": "^1.8.2",
-    "stripe": "^8.46.0",
+    "stripe": "^8.222.0",
     "uuid": "^7.0.2"
   },
   "scripts": {
