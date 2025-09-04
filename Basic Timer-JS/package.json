@@ -9,6 +9,6 @@
   "author": "Gaurav Singh",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^5.2.1"
+    "puppeteer": "^5.5.0"
   }
 }
