@@ -26,7 +26,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.0",
     "bulma": "^0.8.2",
     "ng-packagr": "^9.1.5",
-    "p5": "^1.1.9",
+    "p5": "^1.11.11",
     "rxjs": "^6.5.5",
     "tslib": "^1.13.0",
     "zone.js": "^0.10.3"
